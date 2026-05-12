@@ -8,6 +8,7 @@ int square(int num){
     return result;
 
 }
+
 int main(){
 
     int x = square(2);
@@ -17,6 +18,7 @@ int main(){
     printf("%d\n", x);
     printf("%d\n", y);
     printf("%d\n", z);
+    printf("Done");
 
     return 0;
 }
