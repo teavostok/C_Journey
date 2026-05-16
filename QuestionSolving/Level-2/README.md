@@ -22,3 +22,6 @@ same deal as level 1. pick the question, compile it, run it. all good.
 ## notes
 
 these still dont have any external dependencies or anything. Just pure C. If u got gcc installed ur good to go.
+
+
+(totally not telling AI to write the readme's)
