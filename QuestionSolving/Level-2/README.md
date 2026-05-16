@@ -9,6 +9,7 @@ more towards making equations
 - **Q3**: Palindrome Number Checker.
 - **Q4**: Print the first n digits of the Fibonacci Series.
 - **Q5**: number guessing game.
+- **Q6**: teavostonks!
 
 ## how to run
 
