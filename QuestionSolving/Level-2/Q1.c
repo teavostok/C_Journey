@@ -1,4 +1,8 @@
-//Q1L-2 : Prime Number Check
+//Q1L-2 : Prime Number Checker.
+
+
+
+
 
 #include <stdio.h>
 
