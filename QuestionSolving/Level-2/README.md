@@ -1,14 +1,14 @@
 # Level-2 Questions
 
-okay so u leveled up a bit. slightly more complex stuff but still pretty chill.
+more towards making equations
 
 ## what's in here
 
-- **Q1**: idk something u built
-- **Q2**: probably some arrays or strings
-- **Q3**: maybe some conditions or logic
-- **Q4**: more fun stuff
-- **Q5**: number guessing game. this was cool to make
+- **Q1**: check prime number
+- **Q2**: Armstrong Number Checker.
+- **Q3**: Palindrome Number Checker.
+- **Q4**: Print the first n digits of the Fibonacci Series.
+- **Q5**: number guessing game.
 
 ## how to run
 
@@ -21,4 +21,4 @@ same deal as level 1. pick the question, compile it, run it. all good.
 
 ## notes
 
-these still dont have any external dependencies or anything. just pure C vibes. if u got gcc installed ur golden.
+these still dont have any external dependencies or anything. Just pure C. If u got gcc installed ur good to go.
