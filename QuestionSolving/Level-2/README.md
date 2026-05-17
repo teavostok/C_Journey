@@ -10,6 +10,8 @@ more towards making equations
 - **Q4**: Print the first n digits of the Fibonacci Series.
 - **Q5**: number guessing game.
 - **Q6**: teavostonks!
+- **Q7**: Password Checker... few ways it can stop working but whatever.
+
 
 ## how to run
 
