@@ -13,8 +13,7 @@ int main(){
 
     int min = 1;
     int max = 100;
-    
-
+     
     
     RandNum = (rand() % (max - min + 1)) + min;
 
